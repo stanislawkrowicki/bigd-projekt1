@@ -1,0 +1,201 @@
+park_id,name,region,facilities,attractions,nature_types,established_year
+PARK0001,"Corwin-Johnston Park",West,"Camping;Restrooms","Zoo","Forest",2009
+PARK0002,"Mayer, Kassulke and Tremblay Park",Central,"Playground;Picnic Area","Lake;Historic Site;Zoo","River;Prairie",1919
+PARK0003,"Hilpert, Pouros and Durgan Park",North,"Camping;Playground;Restrooms","Lake;Waterfall","Wetland;Coast",2003
+PARK0004,"Nienow-Funk Park",East,"Fitness Trail;Picnic Area;Camping;Swimming Pool","Lake;Waterfall;Mountain","Forest;Prairie",2009
+PARK0005,"Terry Group Park",West,"Playground;Fitness Trail;Picnic Area;Swimming Pool","Monument;Zoo;Waterfall","Coast;Wetland",1971
+PARK0006,"Koss, Walsh and Gaylord Park",West,"Picnic Area;Playground","Waterfall;Historic Site","Desert;Coast",1921
+PARK0007,"Koch-Dare Park",North,"Picnic Area;Dog Park;Parking","Botanical Garden;Lake;Monument","Prairie;Forest",1924
+PARK0008,"Keebler, Ullrich and Turcotte Park",Central,"Playground;Picnic Area;Parking","Botanical Garden","River;Forest",1934
+PARK0009,"Braun Group Park",Central,"Fitness Trail;Camping","Mountain","Prairie",1932
+PARK0010,"Lehner and Sons Park",Central,"Swimming Pool;Dog Park","Zoo;Lake","Tundra;Forest",1917
+PARK0011,"Leannon-Blanda Park",North,"Camping;Restrooms;Playground","Zoo","Desert;Coast",1906
+PARK0012,"Tillman Inc Park",Central,"Fitness Trail;Picnic Area","Lake","Prairie",1914
+PARK0013,"Bogisich-Huels Park",East,"Camping;Playground","Monument;Mountain","River;Prairie",1982
+PARK0014,"Walker and Sons Park",West,"Dog Park;Restrooms","Waterfall;Zoo","Wetland",1946
+PARK0015,"Wiegand-Kris Park",Central,"Parking;Swimming Pool;Playground","Historic Site","Tundra",1911
+PARK0016,"White-Sipes Park",South,"Fitness Trail;Parking;Swimming Pool","Botanical Garden;Mountain;Zoo","Forest",1950
+PARK0017,"Hirthe, Mayer and Schmeler Park",North,"Restrooms;Camping","Botanical Garden;Mountain","Wetland",1946
+PARK0018,"Cremin, Emmerich and Watsica Park",West,"Playground;Swimming Pool","Monument;Lake","Tundra",2009
+PARK0019,"Gulgowski-Roob Park",Central,"Restrooms;Picnic Area;Dog Park","Mountain;Botanical Garden","River;Forest",1930
+PARK0020,"Kris LLC Park",North,"Camping;Fitness Trail;Restrooms;Dog Park","Botanical Garden;Zoo;Waterfall","Coast",2006
+PARK0021,"McCullough LLC Park",East,"Parking;Camping","Monument","Tundra;Desert",2005
+PARK0022,"Windler-Ward Park",South,"Swimming Pool;Fitness Trail;Picnic Area","Zoo","Forest",1965
+PARK0023,"Torp, O'Hara and Paucek Park",West,"Restrooms;Playground;Swimming Pool","Monument;Zoo","River",1923
+PARK0024,"Beahan-Smith Park",West,"Parking;Camping","Waterfall;Lake;Monument","Coast;Prairie",1970
+PARK0025,"Marvin, Fahey and Cole Park",East,"Parking;Playground;Fitness Trail;Dog Park","Lake;Waterfall","River;Coast",1982
+PARK0026,"Reynolds, Ryan and Collier Park",Central,"Swimming Pool;Picnic Area;Dog Park","Historic Site;Mountain","Wetland",1956
+PARK0027,"O'Connell-Auer Park",Central,"Playground;Camping","Mountain;Botanical Garden","Prairie",1904
+PARK0028,"Legros Group Park",East,"Camping;Picnic Area;Parking;Swimming Pool","Botanical Garden;Lake","Wetland",2007
+PARK0029,"Sanford, Brakus and Lemke Park",Central,"Playground;Fitness Trail","Historic Site;Botanical Garden;Monument","Prairie;River",1975
+PARK0030,"Gleichner-Runte Park",South,"Dog Park;Restrooms","Lake","Forest;Coast",1916
+PARK0031,"Raynor and Sons Park",North,"Camping;Picnic Area","Zoo","Coast;Desert",1945
+PARK0032,"Goldner Group Park",South,"Playground;Picnic Area;Dog Park","Lake;Monument","Wetland;River",1953
+PARK0033,"Dach, Jacobs and Mitchell Park",South,"Swimming Pool;Dog Park;Picnic Area","Historic Site;Monument;Waterfall","Wetland;Tundra",1956
+PARK0034,"Bogisich-Rath Park",West,"Fitness Trail;Camping;Swimming Pool;Parking","Historic Site;Lake;Zoo","Forest;Prairie",1929
+PARK0035,"Stroman-Lesch Park",West,"Picnic Area;Playground","Monument;Zoo","Coast;Wetland",2011
+PARK0036,"Nienow-Parker Park",West,"Parking;Playground;Restrooms","Lake","River;Coast",1975
+PARK0037,"Orn, Pfannerstill and Hill Park",East,"Restrooms;Camping;Swimming Pool;Fitness Trail","Waterfall;Monument","Forest",2005
+PARK0038,"Abernathy, Sipes and Dicki Park",East,"Restrooms;Playground;Picnic Area;Swimming Pool","Lake","Coast",1913
+PARK0039,"Rempel-Stracke Park",Central,"Parking;Dog Park","Monument","Forest",1975
+PARK0040,"Goyette Group Park",Central,"Picnic Area;Parking","Mountain","Desert",1902
+PARK0041,"Skiles and Sons Park",South,"Swimming Pool;Dog Park","Zoo","Prairie",1983
+PARK0042,"Paucek-Walter Park",South,"Parking;Camping;Restrooms","Historic Site","Forest",2019
+PARK0043,"Olson, Stoltenberg and Becker Park",West,"Picnic Area;Parking;Dog Park;Camping","Mountain;Zoo","Desert;Forest",1903
+PARK0044,"Reichert, Stehr and Collier Park",South,"Fitness Trail;Dog Park;Restrooms;Picnic Area","Waterfall","Desert;Prairie",1927
+PARK0045,"Boyer, Bauch and Jones Park",North,"Camping;Picnic Area;Swimming Pool","Waterfall;Historic Site;Monument","Coast",1969
+PARK0046,"Wilkinson-Schroeder Park",West,"Restrooms;Swimming Pool;Picnic Area","Waterfall","Forest;Coast",1950
+PARK0047,"Lehner-Bergstrom Park",South,"Restrooms;Playground;Picnic Area;Parking","Lake","Wetland",1973
+PARK0048,"Harber, Schamberger and Ledner Park",East,"Picnic Area;Fitness Trail","Historic Site;Lake;Mountain","Prairie;River",2000
+PARK0049,"Nolan, Crooks and Weber Park",North,"Restrooms;Camping","Monument;Waterfall","Prairie;Desert",1942
+PARK0050,"Witting and Sons Park",East,"Playground;Parking;Swimming Pool","Waterfall;Mountain;Monument","Desert",2021
+PARK0051,"Bernhard-Kris Park",East,"Dog Park;Camping;Swimming Pool;Playground","Historic Site;Monument;Lake","Wetland",1950
+PARK0052,"Borer-Roob Park",East,"Restrooms;Playground;Parking;Dog Park","Monument","Wetland",1987
+PARK0053,"Sawayn and Sons Park",Central,"Swimming Pool;Dog Park","Monument;Zoo;Lake","Wetland",1992
+PARK0054,"O'Kon, Veum and Ebert Park",West,"Fitness Trail;Playground;Camping;Parking","Botanical Garden;Monument","Desert;Prairie",1945
+PARK0055,"Ryan, Buckridge and Stehr Park",North,"Parking;Picnic Area;Fitness Trail;Restrooms","Waterfall","Desert",1987
+PARK0056,"Barrows-Halvorson Park",South,"Camping;Parking","Lake;Botanical Garden;Monument","Coast;Prairie",1900
+PARK0057,"Legros, Blick and Schmeler Park",East,"Dog Park;Restrooms;Parking;Fitness Trail","Lake;Mountain","Prairie",2012
+PARK0058,"Jones, Smith and Emmerich Park",West,"Camping;Fitness Trail","Monument","Coast;Forest",1994
+PARK0059,"Stark, Bergstrom and Wiegand Park",West,"Camping;Playground;Fitness Trail;Picnic Area","Mountain","Prairie;Wetland",2007
+PARK0060,"Dietrich, Pollich and Turner Park",West,"Parking;Playground;Dog Park","Botanical Garden;Zoo;Historic Site","Forest",1996
+PARK0061,"Friesen-Lesch Park",South,"Dog Park;Parking","Historic Site","River;Prairie",1922
+PARK0062,"Bartoletti, Goyette and Yost Park",North,"Playground;Swimming Pool","Mountain;Historic Site;Zoo","Forest;Desert",1971
+PARK0063,"Corwin-Olson Park",South,"Dog Park;Swimming Pool;Playground;Restrooms","Mountain","Forest",1902
+PARK0064,"Baumbach, Johns and Gulgowski Park",South,"Picnic Area;Dog Park;Restrooms;Swimming Pool","Monument;Botanical Garden;Waterfall","Forest",1996
+PARK0065,"Hahn-Waelchi Park",East,"Swimming Pool;Restrooms;Parking;Picnic Area","Waterfall;Historic Site","Wetland;Coast",1988
+PARK0066,"Anderson-Harris Park",North,"Dog Park;Picnic Area;Fitness Trail","Waterfall;Monument;Mountain","Prairie;River",2015
+PARK0067,"Zboncak, Kris and Greenholt Park",Central,"Picnic Area;Playground;Parking","Zoo","Tundra;Forest",1929
+PARK0068,"Ullrich-Leannon Park",South,"Swimming Pool;Dog Park","Mountain;Lake;Historic Site","Wetland",1940
+PARK0069,"McDermott-Johns Park",East,"Restrooms;Swimming Pool","Waterfall;Mountain","Tundra;Prairie",1940
+PARK0070,"Mayer-Cronin Park",North,"Restrooms;Camping","Mountain;Zoo","Desert;Forest",1929
+PARK0071,"Goyette and Sons Park",East,"Camping;Dog Park;Picnic Area","Monument;Zoo","Forest;Coast",1982
+PARK0072,"Satterfield, Klein and Reinger Park",Central,"Playground;Picnic Area;Dog Park","Botanical Garden;Monument","Desert;Forest",1998
+PARK0073,"Koch-O'Conner Park",Central,"Fitness Trail;Swimming Pool;Restrooms","Botanical Garden;Waterfall","Prairie;Desert",1978
+PARK0074,"Wilderman-Hessel Park",West,"Picnic Area;Camping;Fitness Trail;Dog Park","Botanical Garden;Mountain","Prairie",1992
+PARK0075,"Abernathy, Keeling and Hahn Park",West,"Fitness Trail;Picnic Area","Lake;Historic Site;Waterfall","Forest;Prairie",1902
+PARK0076,"Hartmann-Bradtke Park",West,"Camping;Picnic Area;Parking","Botanical Garden","Wetland",1974
+PARK0077,"Powlowski and Sons Park",East,"Fitness Trail;Camping","Botanical Garden;Waterfall","River;Forest",2008
+PARK0078,"Casper Group Park",Central,"Playground;Dog Park;Parking","Botanical Garden;Zoo","Desert",1944
+PARK0079,"Cormier, Volkman and Kirlin Park",North,"Picnic Area;Restrooms","Waterfall","Forest",1929
+PARK0080,"Wilkinson LLC Park",East,"Parking;Swimming Pool;Fitness Trail","Lake","Tundra;River",2000
+PARK0081,"Sanford-Hahn Park",South,"Picnic Area;Fitness Trail;Restrooms;Playground","Lake;Botanical Garden","Tundra;Coast",1957
+PARK0082,"Barton-Koch Park",South,"Fitness Trail;Picnic Area","Waterfall","Desert",1943
+PARK0083,"Hoppe-Becker Park",West,"Fitness Trail;Picnic Area;Restrooms","Lake","River",2005
+PARK0084,"Abbott-Rodriguez Park",West,"Parking;Restrooms;Swimming Pool;Camping","Lake;Mountain;Botanical Garden","Forest",1953
+PARK0085,"Becker Inc Park",South,"Swimming Pool;Playground","Mountain;Waterfall","Forest;Prairie",1988
+PARK0086,"Leannon, Monahan and Brekke Park",North,"Playground;Camping;Restrooms","Zoo","Tundra",1986
+PARK0087,"Mraz, Stracke and Ortiz Park",East,"Fitness Trail;Restrooms;Dog Park","Waterfall","Desert",1995
+PARK0088,"Heathcote and Sons Park",West,"Playground;Swimming Pool","Botanical Garden;Zoo","Forest",1941
+PARK0089,"Greenholt, Schaefer and Corkery Park",South,"Swimming Pool;Fitness Trail;Camping;Playground","Botanical Garden;Lake","Forest",1967
+PARK0090,"Mohr and Sons Park",North,"Parking;Camping;Fitness Trail;Dog Park","Monument","Prairie;River",1914
+PARK0091,"Turner Group Park",West,"Dog Park;Fitness Trail;Playground","Monument;Botanical Garden;Zoo","Forest",1959
+PARK0092,"Abernathy-Walker Park",South,"Restrooms;Dog Park;Playground","Lake;Monument","Prairie;Wetland",1965
+PARK0093,"Gibson Group Park",South,"Parking;Restrooms;Swimming Pool","Lake","Wetland;Prairie",1990
+PARK0094,"Heathcote LLC Park",North,"Parking;Fitness Trail;Picnic Area","Historic Site;Mountain;Zoo","Prairie",2007
+PARK0095,"Watsica, Gibson and Russel Park",North,"Playground;Picnic Area","Monument;Zoo;Botanical Garden","Forest",1913
+PARK0096,"Cruickshank-Prosacco Park",North,"Restrooms;Dog Park;Camping","Botanical Garden;Waterfall;Monument","Forest;River",1901
+PARK0097,"Renner, Anderson and Hodkiewicz Park",North,"Dog Park;Playground;Fitness Trail;Camping","Botanical Garden","Forest",1945
+PARK0098,"Mraz, Balistreri and Toy Park",North,"Dog Park;Restrooms","Zoo;Botanical Garden;Historic Site","Tundra",2008
+PARK0099,"Bradtke and Sons Park",East,"Camping;Picnic Area;Swimming Pool;Parking","Historic Site;Lake","Tundra",1915
+PARK0100,"Wilderman, Abshire and Hilpert Park",East,"Parking;Fitness Trail;Picnic Area;Swimming Pool","Botanical Garden","River",1930
+PARK0101,"Grant Inc Park",South,"Dog Park;Camping","Zoo;Waterfall;Lake","Wetland",1945
+PARK0102,"Treutel-Lakin Park",North,"Swimming Pool;Camping;Picnic Area;Playground","Lake;Waterfall;Monument","Coast",1939
+PARK0103,"Swift, Toy and Wisoky Park",North,"Restrooms;Fitness Trail;Swimming Pool;Picnic Area","Waterfall","Coast;Forest",1952
+PARK0104,"Dooley-Pfannerstill Park",West,"Swimming Pool;Camping;Fitness Trail;Picnic Area","Zoo;Waterfall;Lake","Wetland",2000
+PARK0105,"Brakus, Green and Hayes Park",East,"Dog Park;Picnic Area","Mountain;Historic Site","River;Prairie",1969
+PARK0106,"Denesik, Oberbrunner and Braun Park",West,"Swimming Pool;Dog Park;Camping","Lake","River;Forest",1919
+PARK0107,"White, Champlin and Kling Park",North,"Parking;Picnic Area;Camping","Waterfall","River",2002
+PARK0108,"Will Inc Park",South,"Swimming Pool;Fitness Trail;Dog Park","Lake;Botanical Garden","Forest;Desert",1942
+PARK0109,"Johnston, Kunde and Hill Park",Central,"Camping;Picnic Area;Swimming Pool","Historic Site;Lake","Coast;Prairie",1955
+PARK0110,"Hyatt-Kerluke Park",West,"Playground;Parking","Waterfall","Coast;Desert",1996
+PARK0111,"Cassin Group Park",Central,"Dog Park;Camping;Parking","Lake","Wetland",1958
+PARK0112,"Bayer, Jerde and Feil Park",West,"Playground;Camping;Restrooms;Fitness Trail","Zoo;Lake;Botanical Garden","Coast;Tundra",2019
+PARK0113,"Reichel LLC Park",South,"Parking;Dog Park;Restrooms;Camping","Historic Site;Lake;Mountain","Wetland",1978
+PARK0114,"VonRueden Group Park",South,"Parking;Fitness Trail;Playground;Camping","Botanical Garden;Waterfall","River",1945
+PARK0115,"Bernier, Kirlin and Gorczany Park",North,"Camping;Fitness Trail;Playground;Parking","Zoo","Tundra;Forest",1901
+PARK0116,"Murray and Sons Park",North,"Playground;Fitness Trail;Restrooms","Waterfall","Forest",2004
+PARK0117,"Koss, McCullough and Koch Park",Central,"Restrooms;Swimming Pool;Fitness Trail","Mountain;Lake","Coast;River",2007
+PARK0118,"Welch, Beahan and Bernier Park",North,"Restrooms;Playground","Lake;Waterfall;Monument","Forest;Coast",2001
+PARK0119,"Dach-Ullrich Park",South,"Restrooms;Dog Park;Fitness Trail","Botanical Garden;Lake;Monument","River;Forest",1962
+PARK0120,"Hickle, Macejkovic and D'Amore Park",West,"Restrooms;Fitness Trail;Camping;Parking","Botanical Garden;Mountain;Monument","River",1956
+PARK0121,"Crona LLC Park",West,"Fitness Trail;Picnic Area","Mountain;Zoo;Lake","River",1974
+PARK0122,"Daugherty-Klein Park",North,"Playground;Swimming Pool;Dog Park","Lake;Waterfall","Desert;Coast",1967
+PARK0123,"Kihn, Pouros and Cronin Park",Central,"Playground;Picnic Area;Camping","Botanical Garden;Mountain;Waterfall","Coast",1945
+PARK0124,"Bauch-Haley Park",East,"Playground;Picnic Area","Waterfall;Botanical Garden","Wetland",2003
+PARK0125,"Lind Group Park",North,"Picnic Area;Dog Park;Parking","Historic Site;Waterfall;Botanical Garden","Forest",1928
+PARK0126,"Greenholt Group Park",Central,"Dog Park;Picnic Area;Swimming Pool","Lake;Botanical Garden;Monument","Wetland",1967
+PARK0127,"Larkin Inc Park",Central,"Picnic Area;Fitness Trail","Mountain","River",2018
+PARK0128,"Vandervort, Terry and Powlowski Park",North,"Fitness Trail;Camping;Parking","Lake","Coast;Forest",1923
+PARK0129,"Lueilwitz, Brakus and Franecki Park",West,"Picnic Area;Playground;Parking","Waterfall","Tundra",1906
+PARK0130,"Smith Group Park",Central,"Fitness Trail;Dog Park","Mountain;Monument;Waterfall","Tundra",1991
+PARK0131,"Rohan Group Park",West,"Swimming Pool;Playground;Dog Park;Fitness Trail","Botanical Garden;Lake;Monument","Wetland",1931
+PARK0132,"Green LLC Park",Central,"Swimming Pool;Camping;Fitness Trail;Restrooms","Botanical Garden;Monument;Mountain","Prairie",1932
+PARK0133,"Kunde and Sons Park",West,"Picnic Area;Playground","Waterfall;Zoo","Wetland",1975
+PARK0134,"Kassulke-Zemlak Park",East,"Parking;Restrooms;Fitness Trail;Swimming Pool","Zoo;Waterfall","Coast",2017
+PARK0135,"Schneider-Abernathy Park",West,"Dog Park;Playground;Fitness Trail;Restrooms","Botanical Garden;Waterfall","Coast",1912
+PARK0136,"Grimes Inc Park",North,"Parking;Dog Park;Camping;Picnic Area","Historic Site;Waterfall;Monument","Coast",1940
+PARK0137,"Harvey, Howell and Casper Park",West,"Playground;Parking;Fitness Trail","Waterfall;Monument;Botanical Garden","Prairie;Forest",1914
+PARK0138,"Hermann-Fisher Park",East,"Dog Park;Camping","Historic Site;Botanical Garden","River",1956
+PARK0139,"Kirlin and Sons Park",West,"Dog Park;Parking;Restrooms;Playground","Botanical Garden;Lake","Forest;Tundra",1950
+PARK0140,"Waelchi-Hudson Park",West,"Restrooms;Camping","Monument","Wetland",2002
+PARK0141,"Blanda Group Park",South,"Fitness Trail;Playground","Mountain","Tundra",2000
+PARK0142,"Stamm, Pfannerstill and Feil Park",Central,"Playground;Dog Park","Botanical Garden;Mountain","River",2017
+PARK0143,"Gaylord, Fritsch and Schamberger Park",South,"Camping;Parking;Picnic Area;Restrooms","Historic Site","Prairie;Wetland",2006
+PARK0144,"Leannon, Rutherford and Upton Park",East,"Picnic Area;Restrooms","Waterfall;Mountain;Historic Site","Forest;Wetland",1972
+PARK0145,"Block-Walsh Park",Central,"Restrooms;Picnic Area;Playground;Fitness Trail","Historic Site;Monument;Zoo","Wetland",2020
+PARK0146,"Windler-Torp Park",Central,"Parking;Picnic Area;Playground","Monument","Tundra",2012
+PARK0147,"Rosenbaum LLC Park",West,"Fitness Trail;Parking;Playground;Camping","Waterfall;Mountain","Coast;Tundra",1968
+PARK0148,"Bruen LLC Park",South,"Dog Park;Swimming Pool","Historic Site;Monument;Zoo","River",2020
+PARK0149,"Hills, Lindgren and Turcotte Park",West,"Swimming Pool;Restrooms;Fitness Trail","Botanical Garden","Coast",1955
+PARK0150,"McClure Inc Park",South,"Parking;Dog Park;Swimming Pool;Picnic Area","Botanical Garden;Zoo;Historic Site","Tundra;Coast",1950
+PARK0151,"Olson-Runolfsson Park",Central,"Picnic Area;Fitness Trail","Historic Site;Waterfall;Mountain","Wetland",1973
+PARK0152,"Senger Inc Park",West,"Restrooms;Parking;Fitness Trail","Zoo","Tundra;Forest",1909
+PARK0153,"Rohan and Sons Park",West,"Parking;Swimming Pool;Camping","Monument","Coast;Wetland",2009
+PARK0154,"Walker-Mann Park",South,"Playground;Picnic Area","Historic Site;Mountain","Prairie;Tundra",1993
+PARK0155,"Krajcik, Schneider and Sawayn Park",West,"Picnic Area;Parking","Waterfall;Mountain","River;Forest",1991
+PARK0156,"Hand-Thompson Park",South,"Picnic Area;Parking","Zoo","Coast;Tundra",1980
+PARK0157,"Boehm, Padberg and Rutherford Park",West,"Parking;Dog Park","Zoo","Forest;River",1917
+PARK0158,"Quitzon, Bahringer and Welch Park",Central,"Playground;Parking;Picnic Area","Monument;Historic Site","Desert",1957
+PARK0159,"Konopelski, Davis and Keebler Park",North,"Restrooms;Parking","Mountain","Tundra",1988
+PARK0160,"Cole, Hagenes and Cole Park",North,"Restrooms;Parking","Waterfall;Zoo;Monument","Coast;River",1944
+PARK0161,"Ledner, Bechtelar and Ruecker Park",Central,"Playground;Parking","Lake","Desert",1917
+PARK0162,"Gislason Inc Park",Central,"Dog Park;Restrooms;Fitness Trail;Playground","Lake;Botanical Garden","Desert",1971
+PARK0163,"Hartmann-McLaughlin Park",East,"Camping;Restrooms;Parking","Zoo;Botanical Garden;Lake","River;Desert",1956
+PARK0164,"Kassulke, Blick and Parker Park",South,"Camping;Playground","Botanical Garden;Waterfall;Mountain","Desert",1927
+PARK0165,"Mohr, Stark and Schaefer Park",West,"Parking;Picnic Area;Restrooms;Swimming Pool","Lake;Mountain;Monument","River;Wetland",2000
+PARK0166,"Ondricka-Little Park",West,"Parking;Playground","Mountain;Historic Site","Coast",1983
+PARK0167,"Moore-Champlin Park",North,"Dog Park;Playground;Parking","Historic Site;Lake;Waterfall","Tundra;Forest",1971
+PARK0168,"Considine-Pfannerstill Park",Central,"Parking;Playground","Monument","Desert",2006
+PARK0169,"Will, Effertz and Mitchell Park",North,"Dog Park;Swimming Pool;Playground","Mountain;Waterfall;Zoo","Wetland;Forest",1923
+PARK0170,"Oberbrunner, Murray and Bergstrom Park",North,"Swimming Pool;Playground;Dog Park;Picnic Area","Lake;Botanical Garden;Historic Site","Wetland",1909
+PARK0171,"Watsica Inc Park",Central,"Swimming Pool;Picnic Area;Fitness Trail;Dog Park","Botanical Garden;Mountain;Lake","Coast;Desert",1949
+PARK0172,"Upton, Hane and Kuhlman Park",West,"Playground;Swimming Pool","Botanical Garden;Historic Site;Zoo","Forest;Prairie",1909
+PARK0173,"Schultz Group Park",North,"Restrooms;Parking","Historic Site;Lake;Monument","Forest",1952
+PARK0174,"Collier LLC Park",North,"Camping;Parking;Swimming Pool;Picnic Area","Historic Site;Botanical Garden;Monument","Forest",1947
+PARK0175,"Reilly-Beahan Park",South,"Playground;Fitness Trail","Lake","Tundra",1984
+PARK0176,"Schiller-Bechtelar Park",Central,"Restrooms;Picnic Area","Monument;Botanical Garden","Wetland",1974
+PARK0177,"Collins Group Park",North,"Dog Park;Playground","Lake","River;Desert",1901
+PARK0178,"Stroman-Wyman Park",North,"Camping;Swimming Pool","Mountain;Waterfall;Monument","Desert",1913
+PARK0179,"Miller, Zieme and Conn Park",North,"Parking;Fitness Trail;Picnic Area","Botanical Garden","Desert",1974
+PARK0180,"King and Sons Park",South,"Camping;Dog Park","Zoo;Mountain","River;Desert",1969
+PARK0181,"Abernathy-Little Park",Central,"Swimming Pool;Fitness Trail;Playground","Botanical Garden;Historic Site","River;Desert",1924
+PARK0182,"Cummings and Sons Park",North,"Restrooms;Camping;Picnic Area","Historic Site;Zoo","Coast",1954
+PARK0183,"MacGyver, Conn and Breitenberg Park",North,"Swimming Pool;Fitness Trail","Waterfall","Tundra;Forest",2016
+PARK0184,"Swift-O'Reilly Park",North,"Dog Park;Camping;Picnic Area","Zoo","Forest",1909
+PARK0185,"Muller Group Park",Central,"Dog Park;Camping;Restrooms","Monument;Historic Site;Mountain","Prairie;Coast",1916
+PARK0186,"Rath-Altenwerth Park",West,"Playground;Dog Park;Picnic Area","Historic Site;Zoo;Monument","Coast",1905
+PARK0187,"Gorczany, Reilly and Buckridge Park",West,"Parking;Restrooms;Picnic Area;Camping","Waterfall;Zoo","Forest",1915
+PARK0188,"Upton-Osinski Park",North,"Swimming Pool;Dog Park","Historic Site;Mountain;Botanical Garden","Prairie",2001
+PARK0189,"Boyle and Sons Park",Central,"Swimming Pool;Playground","Zoo","Tundra;Forest",1991
+PARK0190,"Cartwright Inc Park",South,"Restrooms;Fitness Trail","Historic Site","Desert;River",1951
+PARK0191,"Hegmann-Gulgowski Park",East,"Swimming Pool;Fitness Trail;Camping","Lake","Forest;Desert",1966
+PARK0192,"Walter LLC Park",Central,"Playground;Camping","Waterfall;Lake;Zoo","Wetland",1999
+PARK0193,"Cruickshank-Marquardt Park",West,"Fitness Trail;Dog Park;Camping;Playground","Mountain;Lake;Monument","Wetland",2020
+PARK0194,"Auer LLC Park",West,"Picnic Area;Playground;Swimming Pool;Restrooms","Botanical Garden","Tundra",1981
+PARK0195,"Effertz-Ebert Park",West,"Restrooms;Dog Park;Playground;Fitness Trail","Mountain;Botanical Garden","Desert",1915
+PARK0196,"Rau-Wintheiser Park",South,"Restrooms;Dog Park;Parking;Swimming Pool","Waterfall","Desert;Coast",1946
+PARK0197,"Prosacco, Langosh and Ferry Park",North,"Camping;Fitness Trail;Swimming Pool","Mountain;Lake","Coast;Prairie",2014
+PARK0198,"Gislason, Aufderhar and Kuhlman Park",West,"Fitness Trail;Parking","Lake;Waterfall;Mountain","River;Prairie",1945
+PARK0199,"Bernier-Mitchell Park",East,"Camping;Fitness Trail","Historic Site","River",1964
+PARK0200,"Hickle and Sons Park",East,"Restrooms;Parking;Playground","Botanical Garden;Zoo","Tundra",2021
