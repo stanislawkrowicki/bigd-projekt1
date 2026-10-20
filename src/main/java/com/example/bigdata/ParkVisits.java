@@ -30,19 +30,22 @@ public class ParkVisits extends Configured implements Tool {
         FileOutputFormat.setOutputPath(job, new Path(args[1]));
 
         job.setMapperClass(ParkVisitsMapper.class);
-        job.setCombinerClass(ParkVisitsReducer.class);
+        job.setCombinerClass(ParkVisitsCombiner.class);
         job.setReducerClass(ParkVisitsReducer.class);
 
-        job.setMapOutputValueClass(IntWritable.class);
+        job.setMapOutputKeyClass(Text.class);
+        job.setMapOutputValueClass(SumCount.class);
         job.setOutputKeyClass(Text.class);
-        job.setOutputValueClass(IntWritable.class);
+        job.setOutputValueClass(Text.class);
+
         return job.waitForCompletion(true) ? 0 : 1;
     }
 
-    public static class ParkVisitsMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
+    public static class ParkVisitsMapper extends Mapper<LongWritable, Text, Text, SumCount> {
 
-        private final Text date = new Text();
-        private final IntWritable entries = new IntWritable();
+        private final Text key = new Text();
+        private final SumCount sumCount = new SumCount();
+        private final IntWritable one = new IntWritable(1);
 
         public void map(LongWritable offset, Text lineText, Context context) {
             try {
@@ -51,34 +54,58 @@ public class ParkVisits extends Configured implements Tool {
                 String line = lineText.toString();
                 String[] values = line.split(",");
 
+                String parkId = values[1];
                 String datetimeString = values[3];
                 String dateString = datetimeString.split("T")[0];
 
-                date.set(dateString);
-                entries.set(1);
+                double groupSize = Double.parseDouble(values[5]);
 
-                context.write(date, entries);
+                key.set(parkId + "\t" + dateString);
+                sumCount.set(new DoubleWritable(groupSize), one);
+
+                context.write(key, sumCount);
             } catch (Exception e) {
                 e.printStackTrace();
             }
         }
     }
 
-    public static class ParkVisitsReducer extends Reducer<Text, IntWritable, Text, IntWritable> {
-        private final IntWritable resultValue = new IntWritable();
+    public static class ParkVisitsReducer extends Reducer<Text, SumCount, Text, Text> {
+        private final Text result = new Text();
 
         @Override
-        public void reduce(Text key, Iterable<IntWritable> values,
+        public void reduce(Text key, Iterable<SumCount> values,
                            Context context) throws IOException, InterruptedException {
+            double sumOfPeople = 0;
             int entries = 0;
 
-            for (IntWritable val : values) {
-                entries += val.get();
+            for (SumCount val : values) {
+                entries += val.getCount().get();
+                sumOfPeople += val.getSum().get();
             }
 
-            resultValue.set(entries);
+            double averageGroupSize = sumOfPeople / entries;
+            result.set(entries + "\t" + String.format("%.2f", averageGroupSize));
 
-            context.write(key, resultValue);
+            context.write(key, result);
+        }
+    }
+
+    public static class ParkVisitsCombiner extends Reducer<Text, SumCount, Text, SumCount> {
+        private final SumCount aggregate = new SumCount();
+
+        @Override
+        public void reduce(Text key, Iterable<SumCount> values, Context context) throws IOException, InterruptedException {
+            double sum = 0;
+            int count = 0;
+
+            for (SumCount val : values) {
+                sum += val.getSum().get();
+                count += val.getCount().get();
+            }
+
+            aggregate.set(new DoubleWritable(sum), new IntWritable(count));
+            context.write(key, aggregate);
         }
     }
 }
