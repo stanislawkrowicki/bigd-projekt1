@@ -85,7 +85,7 @@ public class ParkVisits extends Configured implements Tool {
             }
 
             double averageGroupSize = sumOfPeople / entries;
-            result.set(entries + "\t" + String.format("%.2f", averageGroupSize));
+            result.set(entries + "\t" + averageGroupSize);
 
             context.write(key, result);
         }
